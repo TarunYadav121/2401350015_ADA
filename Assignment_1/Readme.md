@@ -1,6 +1,6 @@
 # Algorithm Foundations – Assignment 01  
-Name : KRISH
-Roll no : 2401350009
+Name : Tarun
+Roll no : 2401350015
 program: Btech CSE(FSD)
 Subject: Analysis and Design of Algorithms Lab  
 Course Code: ENCS256  
