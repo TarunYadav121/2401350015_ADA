@@ -1,6 +1,6 @@
 NAME : Tarun
 ROLL NO : 2401350015
-PROGRAM : BTECH SCE (FSD)
+PROGRAM : BTECH CSE (FSD)
 
 
 # Lab Sheet 1 - Sorting Algorithms Analysis
